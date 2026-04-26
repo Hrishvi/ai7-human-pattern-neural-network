@@ -1,5 +1,4 @@
 """
-test.py — pattern-prophet
 =========================
 Loads a trained model from disk and runs an interactive prediction loop.
 
